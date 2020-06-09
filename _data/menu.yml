@@ -2,16 +2,16 @@
   url: /about.html
 
 - title: Poems
-  url: https://jayamishra.com
+  url: /poems.html
 
 - title: Posts
-  url: https://jayamishra.com
+  url: /posts.html
 
 - title: Books
-  url: https://www.amazon.in/Her-Green-Diary-Jaya-Mishra-ebook/dp/B01M0ABC35
-  
+  url: /books.html
+
 - title: Gallery
-  url: mailto:mail@jayamishra.com  
+  url: /gallery.html
 
 - title: Contact
-  url: mailto:mail@jayamishra.com
+  url: /contact.html

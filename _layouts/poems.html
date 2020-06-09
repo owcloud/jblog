@@ -22,7 +22,7 @@ layout: default
 
 
   <ul class="post-list">
-  {% for category in site.categories.letters %}
+  {% for category in site.category.letters %}
     <li><a name="{{ category | first }}">{{ category | first }}</a>
       <ul>
       {% for post in category.last %}
