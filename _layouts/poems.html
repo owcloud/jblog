@@ -21,17 +21,8 @@ layout: default
   </h1>
 
 
-
-  {% for category in site.categories %}
-    <ul>
-      {% for post in category[1] %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endfor %}
-    </ul>
-  {% endfor %}
-
-  <ul>
-  {% for category in site.categories %}
+  <ul class="post-list">
+  {% for category in site.categories.letters %}
     <li><a name="{{ category | first }}">{{ category | first }}</a>
       <ul>
       {% for post in category.last %}
@@ -41,15 +32,5 @@ layout: default
     </li>
   {% endfor %}
   </ul>
-
-    <ul class="post-list">
-      <p>Post-List site.posts</p><br>
-      {% for post in site.posts %}
-        {% include post-list-item.html %}
-      {% endfor %}
-    </ul>
-
-
-
 
 </main>

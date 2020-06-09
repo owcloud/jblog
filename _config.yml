@@ -39,9 +39,9 @@ markdown: kramdown
 #   - vendor/ruby/
 
 category:
-  - Letters
-  - Poems
-  - Thoughts
+  - letters
+  - poems
+  - thoughts
 
 plugins:
   - jekyll-paginate
