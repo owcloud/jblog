@@ -2,7 +2,7 @@
 title: A Letter to Ms. Green
 layout: post
 author: Jaya Mishra
-category: Letters
+category: letters
 ---
 
 Dear Ms Green,

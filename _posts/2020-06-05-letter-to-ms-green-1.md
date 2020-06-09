@@ -1,7 +1,7 @@
 ---
 title: A Letter to Ms. Green
 author: Jaya Mishra
-category: Letters
+category: letters
 layout: post
 ---
 
