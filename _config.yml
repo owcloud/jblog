@@ -38,6 +38,11 @@ markdown: kramdown
 #   - vendor/gems/
 #   - vendor/ruby/
 
+category:
+  - Letters
+  - Poems
+  - Thoughts
+
 plugins:
   - jekyll-paginate
 
