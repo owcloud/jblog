@@ -24,7 +24,7 @@ Poetry, for me, is more of a cure than art; one that cures all kinds of ailments
 Although with the lifestyle I have chosen in the field of Medicine, it becomes difficult at times to go back to writing. But the need to pen down my thoughts and the joy that a finished piece brings, it has me going back to it again and again. 
 
 <br>
-My first book of poetry, **“Her Green Diary”** was published in 2016. It contains a few handpicked poems that I had penned down in my diary for several years. If you enjoy reading poems, you can check it out<a target="_blank" href="https://www.amazon.in/Her-Green-Diary-Jaya-Mishra-ebook/dp/B01M0ABC35">here</a>. 
+My first book of poetry, **“Her Green Diary”** was published in 2016. It contains a few handpicked poems that I had penned down in my diary for several years. If you enjoy reading poems, you can check it out<a target="_blank" href="https://www.amazon.in/Her-Green-Diary-Jaya-Mishra-ebook/dp/B01M0ABC35"> here</a>. 
  
 <br>
 **“Letters to Ms Green”** is a thread of posts that I have recently started. Ms Green is my green diary that I often, if not every day, talk to. Sometimes there are thoughts or incidents that are difficult to talk about, mainly because of the fear of being judged or the stigma some topics bring. But the head doesn’t simply cease to think only because the society has shunned it to be a “taboo.” I am a mental health advocate, being inside and part of the medical community, I have seen and experienced how difficult **“not being able to talk”** about something can be. 
