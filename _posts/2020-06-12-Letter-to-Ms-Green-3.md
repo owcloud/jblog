@@ -36,8 +36,5 @@ A mouth that can talk like that, a mind that can make such noises, such mouth sh
 There’s nothing that I enjoy more than this moment of privacy, in a pretend world where I can say whatever I want to say and hear whatever it is that I want to hear, and get exactly what I want to get for myself. These small moments to myself, I wouldn’t trade them for anything. Nothing in my existence has felt more intense than how I can make myself feel, except for Heath’s tongue, of course, that’s  a complete different level of ecstasy that cannot pawned for anything,ever.
 
 Regards,
-M 
 
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-![l9p.jpg]({{site.baseurl}}/assets/l9p.jpg)
+M
