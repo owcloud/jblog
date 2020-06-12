@@ -1,8 +1,9 @@
 ---
-title: A Letter to Ms. Green
+title: 'A Letter to Ms. Green - 2 '
 layout: post
 author: Jaya Mishra
 category: letters
+published: true
 ---
 
 Dear Ms Green,
