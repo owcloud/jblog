@@ -22,14 +22,11 @@ Love,
 M
 
 
-**PS:** _“I’m worse at what I do best
-And for this gift, I feel blessed
-Our little group has always been
+**PS:** _“I’m worse at what I do best;
+And for this gift, I feel blessed;
+Our little group has always been;
 And always will until the end”_
 
 "Smells like Teen spirit", Kurt Cobain
 
 And who would have thought that this man, this beautiful piece of a man was so unhappy? That’s actually the point, how can we know.
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
