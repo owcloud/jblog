@@ -1,5 +1,8 @@
 ---
 published: true
+layout: post
+author: Jaya Mishra
+category: letters
 ---
 Dear Ms Green,
 
