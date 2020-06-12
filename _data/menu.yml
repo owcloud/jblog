@@ -1,17 +1,11 @@
 - title: Hi There!
-  url: /about.html
-
-- title: Poems
-  url: /poems.html
+  url: /about
 
 - title: Posts
-  url: /posts.html
+  url: /posts
 
 - title: Books
-  url: /books.html
-
-- title: Gallery
-  url: /gallery.html
+  url: /books
 
 - title: Contact
-  url: /contact.html
+  url: /contact

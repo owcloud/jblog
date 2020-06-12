@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+{% if site.data.menu and site.paginate and site.paginate_path and paginator.page > 1 %}
+  {% include menu.html %}
+{% elsif site.paginate and site.paginate_path and paginator.page > 1 %}
+  {% include back-link.html %}
+{% else %}
+
+{% endif %}
+
+<main class="home" id="main" role="main" aria-label="Content">
+
+  <h1 class="content-title divided">
+    {% if site.paginate and site.paginate_path and paginator.page > 1 %}
+      Page {{ paginator.page }}
+    {% else %}
+      Posts
+    {% endif %}
+  </h1>
+
+<ul>
+  <p style="text-transform: uppercase; font-weight:900">Interviews</p>
+  <li>
+    <a style="" target="_blank" href="https://www.icytales.com/jaya-mishra-an-exclusive-interview-summer-chat/">Woman, World and Love : Summertime Chat with Jaya Mishra, an Aspiring Senior Doctor, a Poet</a>
+  </li>
+</ul>
+
+
+  <ul class="post-list">
+  {% for category in site.categories %}
+    <li><a style="text-transform: uppercase; font-weight:900" name="{{ category | first }}">{{ category | first }}</a>
+      <ul>
+      {% for post in category.last %}
+        <li><a style="text-decoration: none;" href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+      </ul>
+    </li>
+  {% endfor %}
+  </ul>
+
+
+
+</main>
