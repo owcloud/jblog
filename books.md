@@ -18,5 +18,5 @@ Among belaud words I don’t mean.”<br>
 <br>
 <br>
 You can order your own paperback copy <a target="_blank" href="https://www.amazon.com/Her-Green-Diary-Jaya-Mishra/dp/1539078469/" >on Amazon</a>.<br>
-Or, can find a <a target="_blank" href="https://www.amazon.com/Her-Green-Diary-Jaya-Mishra-ebook/dp/B01M0ABC35" >kindle edition</a>.<br>
+Or, find a <a target="_blank" href="https://www.amazon.com/Her-Green-Diary-Jaya-Mishra-ebook/dp/B01M0ABC35" >kindle edition</a>.<br>
 Hope you will enjoy it.
