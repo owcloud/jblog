@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 author: Jaya Mishra
 category: thoughts
