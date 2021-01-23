@@ -22,6 +22,3 @@ Can I never see a face again. Can I never hold my man again. Can I never feel th
 Is this why the memories of a past life snatched away at our births. To free us from expectation? From pre-conceived desires that might never be found here? Am I in another amnios again? Am I being reborn? Am I ready to start everything from scratch again?
 
 But then jolt of searing pain awakens my body, a pointed tip of a hollow syringe that purges consciousness into me. I am aware. Of my body, of the air around my body, of the vibrations in the air around my body from the infinitesimal footsteps, lip movements, things banging on other things. I am awake. And as the anesthesia slowly wears off and I can see and recognize faces again, I know exactly what face I wish to be looking at for the rest of my days in this form of existence.
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
